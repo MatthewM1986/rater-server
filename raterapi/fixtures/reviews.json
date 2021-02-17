@@ -1,0 +1,10 @@
+[
+    {
+        "model": "raterapi.review",
+        "pk": 1,
+        "fields": {
+            "content": "test",
+            "player": 1
+        }
+    }
+]

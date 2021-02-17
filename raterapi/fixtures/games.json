@@ -1,0 +1,15 @@
+[
+    {
+        "model": "raterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "test",
+            "description": "test",
+            "designer": "test",
+            "year_released": 1111,
+            "number_of_players": 1,
+            "estimated_time_of_play": 11,
+            "age_recommendation": 11
+        }
+    }
+]
